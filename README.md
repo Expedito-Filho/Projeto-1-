@@ -35,8 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/Expedito-Filho/Projeto-1-)
-
+- [Acesse o projeto finalizado, online](https://Expedito-Filho.github.io/Projeto-1-)
 
 ## 🔖 Layout
 
