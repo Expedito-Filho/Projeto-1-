@@ -9,8 +9,8 @@ function toggleMode() {
   //}else(html.classList.add('light'))
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/avatar-light.png")
+    img.setAttribute("src", "./assets/avatar-luz.png")
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/avatar1.png")
   }
 }
